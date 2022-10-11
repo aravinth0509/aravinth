@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="SimpleXml.xsl"?>
+<Student>
+<person-Details>
+<name>Raj</name>
+<address>Chennai</address>
+<std>Third</std>
+<marks>89 percent</marks>
+</person-Details>
+<person-Details>
+<name>Ram</name>
+<address>Chennai</address><std>Third</std>
+<marks>98 percent</marks>
+</person-Details>
+<person-Details>H
+<name>Raju</name>
+<address>madurai</address>
+<std>Third</std>
+<marks>90 percent</marks>
+</person-Details>
+<person-Details>
+<name>Ragav</name>
+<address>erode</address>
+<std>Third</std>
+<marks>73 percent</marks>
+</person-Details>
+</Student>
